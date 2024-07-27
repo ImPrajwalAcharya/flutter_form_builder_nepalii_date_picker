@@ -33,7 +33,7 @@ Add the following dependency to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  nepali_date_picker: ^0.1.0
+    flutter_form_builder_nepali_date_picker: ^0.0.4
 
 
 
