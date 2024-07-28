@@ -14,7 +14,7 @@ and the Flutter guide for
 
 # Nepali Date Picker for FormBuilder
 
-A custom Nepali Date Picker widget for Flutter applications, integrated with FormBuilder, supporting the Bikram Sambat (BS) calendar. This package allows seamless selection and conversion of dates in the Nepali calendar system.
+A custom Nepali Date Picker widget for Flutter applications, integrated with `FormBuilder`, supporting the Bikram Sambat (BS) calendar. This package allows seamless selection and conversion of dates in the Nepali calendar system.
 
 ## Features
 
@@ -33,7 +33,7 @@ Add the following dependency to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-    flutter_form_builder_nepali_date_picker: ^0.0.4
+    flutter_form_builder_nepali_date_picker: ^0.0.5
 
 
 

@@ -1,8 +1,8 @@
-## 0.0.4
+## 0.0.8
 
 # Changelog
 
-## [0.1.0] - 2024-07-25
+## [0.1.0] - 2024-07-28
 ### Added
 - Initial release of the Nepali Date Picker package.
 - Support for Bikram Sambat (BS) calendar date selection.
@@ -16,10 +16,9 @@
   - Basic styling and theming capabilities.
 
 ### Fixed
-- N/A
+- Some Error Related To Style
 
 ### Changed
-- N/A
 
 ---
 
