@@ -1,4 +1,4 @@
-<!--
+
 This README describes the package. If you publish this package to pub.dev,
 this README's contents appear on the landing page for your package.
 
@@ -35,11 +35,10 @@ Add the following dependency to your `pubspec.yaml` file:
 dependencies:
     flutter_form_builder_nepali_date_picker: ^0.0.5
 
-
+```
 
 ## Usage
-
-
+Add the following code to your `main.dart` file.
 ```dart
 import 'package:flutter/material.dart';
 import 'package:flutter_form_builder/flutter_form_builder.dart';
